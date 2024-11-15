@@ -1,41 +1,40 @@
-# Suicide-Rates-Analysis
-Suicide Rates Analysis
+# **Suicide-Rates-Analysis**
 
-Overview
+# Overview
 
 This repository contains an in-depth analysis of suicide rates across various countries, focusing on different demographic factors and trends. The analysis aims to provide insights into how suicide statistics vary by gender, age group, and geographical location over time. The project uses data visualization and statistical methods to uncover critical findings.
 
-Key Findings
+# Key Findings
 
-Number of Suicides by Country:
+**Number of Suicides by Country:**
 
 Comprehensive data on the total number of suicides committed in each country.
 
-Number of Suicides by Gender:
+**Number of Suicides by Gender:**
 
 Analysis of the number of suicides separated by male and female categories.
 
-Number of Suicides by Gender in Each Country:
+**Number of Suicides by Gender in Each Country:**
 
 Detailed breakdown of suicides by gender within individual countries.
 
-Suicides by Age Groups:
+**Suicides by Age Groups:**
 
 Statistics on suicides committed by various age groups.
 
-Gender-Specific Suicides by Age Groups:
+**Gender-Specific Suicides by Age Groups:**
 
 Analysis of how suicide rates vary by age groups in males and females.
 
-Country-Specific Suicides by Age and Gender:
+**Country-Specific Suicides by Age and Gender:**
 
 Detailed examination of suicides committed by various age groups in males and females within each country.
 
-Population and Yearly Suicide Rates:
+**Population and Yearly Suicide Rates:**
 
 Yearly analysis showing the correlation between population changes and suicide rates.
 
-Project Structure
+# Project Structure
 
 The repository is structured as follows:
 
@@ -49,13 +48,7 @@ results/: Visualizations and summary tables derived from the analysis.
 
 README.md: This file, providing an overview of the project.
 
-Installation
 
-To run the analysis on your local machine, clone this repository and install the required Python libraries:
-
-# Clone the repository
-git clone https://github.com/username/suicide-rates-analysis.git
-cd suicide-rates-analysis
 
 # Install dependencies
 pip install -r requirements.txt
@@ -78,6 +71,8 @@ matplotlib
 
 seaborn
 
+pyplot
+
 Jupyter Notebook (optional for viewing notebooks)
 
 Visualizations
@@ -90,7 +85,7 @@ Comparative analysis of age-specific suicide rates.
 
 Yearly changes in population alongside suicide rate trends.
 
-Contributing
+# Contributing
 
 Contributions to improve the analysis or add new insights are welcome. Please create a pull request or submit an issue for suggestions.
 
